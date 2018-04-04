@@ -1,0 +1,16 @@
+{
+    "name": "tillbilly/stellar-php-client",
+    "description": "Stellar PHP client library for communicating with the Stellar Horizon API",
+    "keywords": ["stellar", "stellar.org", "horizon"],
+    "type": "library",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/TillBillyDev/stellar-php-client/issues?state=open",
+        "wiki": "https://github.com/TillBillyDev/stellar-php-client/wiki",
+        "source": "https://github.com/TillBillyDev/stellar-php-client"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
